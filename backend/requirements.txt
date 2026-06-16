@@ -1,0 +1,12 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+sqlalchemy>=2.0.28
+pydantic>=2.6.4
+pyjwt>=2.8.0
+passlib[bcrypt]>=1.7.4
+bcrypt==4.0.1
+email-validator
+pypdf>=4.1.0
+google-generativeai>=0.4.1
+python-multipart>=0.0.9
+python-dotenv>=1.0.1
